@@ -1,0 +1,4 @@
+imports_layout = "HorizontalVertical"
+inline_attribute_width = 80
+imports_granularity = "Crate"
+max_width = 80
